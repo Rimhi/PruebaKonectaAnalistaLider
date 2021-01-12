@@ -23,3 +23,6 @@ admin@example.com
 password:secret
 
 o puedes bien crearte tu propio usuario
+
+
+para probar la app https://blog-front-rj8i8hhew.vercel.app/
